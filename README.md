@@ -5,9 +5,6 @@
 - 프로젝트 기간 : 2020.5.25 ~ 2020.6.5 (2주)
 - 4명의 개발자가 함께 협업했습니다. (3 Front-End, 1Back-End)
 
-## Demo
-
-
 ## 목표
 - [beatsbydre.com](http://beatsbydre.com) 사이트의 interface 와 동일하게 화면 구현하기.
 - 실제 사이트에 없는 회원가입/로그인, Cart, 마이페이지, 결제내역 기능 추가하기.
